@@ -1,4 +1,3 @@
-// src/styles/ui.config.js
 
 // Typography tokens (for headings, subheadings, body, paragraph, etc.)
 export const typography = {
