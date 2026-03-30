@@ -89,7 +89,7 @@ export const sizes = {
   "2xl": "px-3 py-4 text-2xl sm:px-3 sm:py-5 md:px-3 md:py-6",
 };
 
-// Standardized spacing utilities for padding (p) and margin (m)
+
 // Fully responsive and scalable for different screen sizes
 export const spacing = {
   none: "p-0 m-0",
@@ -140,7 +140,6 @@ export const borders = {
 };
 
 // Standardized border-radius tokens for consistent UI design
-// Used for buttons, cards, modals, avatars, badges, etc.
 export const radii = {
   none: "rounded-none",
   sm: "rounded-sm sm:rounded-md",
